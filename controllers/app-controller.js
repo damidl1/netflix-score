@@ -40,6 +40,12 @@ class AppController {
 
     renderShows(){
 
+        // if(this.orderMethod = 'upvote'){
+        //     //sorting per upvote          esempio per task
+        // } else if {
+        //     // sorting per downvote
+        // }
+
         const btnContainer = document.getElementById('btn-container');
         btnContainer.innerHTML = '';
         
@@ -102,6 +108,7 @@ class AppController {
 
     sortByUpvotes(){
         
+        //this.orderMethod = 'upvote';
         this.shows.sort((s1, s2) => s2.upVotes - s1.upVotes);
         this.renderShows();
 

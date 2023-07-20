@@ -42,9 +42,9 @@ class AppController {
     renderShows(){
 
         // if(this.orderMethod = 'upvote'){
-        //     //sorting per upvote          esempio per task
+            //sorting per upvote          esempio per task
         // } else if {
-        //     // sorting per downvote
+             // sorting per downvote
         // }
 
         const btnContainer = document.getElementById('btn-container');

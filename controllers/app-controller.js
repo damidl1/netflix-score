@@ -9,7 +9,12 @@ class AppController {
     }
     
     render(){
+        
         const appContainer = document.getElementById('app');
+
+        appContainer.innerHTML = ``
+
+
     }   
 
 

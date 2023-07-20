@@ -1,0 +1,47 @@
+[
+    {
+     "title": "Rick & Morty",
+     "author": "Justin Roiland",
+     "isOver": "false",
+     "imageUrl": "https://resources5.eaglepictures.com/image/1/630/945/5b509f00ceb60/rick-and-morty-stagione-1-cover.jpg",
+     "upVotes": 13,
+     "downVotes": 6,
+     "id": "1"
+    },
+    {
+     "title": "Stranger Things",
+     "author": "Michael Stein",
+     "isOver": "false",
+     "imageUrl": "https://m.media-amazon.com/images/I/51KYyZ7v1IL._UF1000,1000_QL80_.jpg",
+     "upVotes": 16,
+     "downVotes": 10,
+     "id": "2"
+    },
+    {
+     "title": "Squid Game",
+     "author": "Hwang Dong-hyuk",
+     "isOver": "false",
+     "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
+     "upVotes": 3,
+     "downVotes": 4,
+     "id": "3"
+    },
+    {
+     "title": "The Witcher",
+     "author": "Lauren Schmidt Hissrich",
+     "isOver": "false",
+     "imageUrl": "https://sm.ign.com/ign_it/tv/t/the-witche/the-witcher-stagione-3_1n64.jpg",
+     "upVotes": 20,
+     "downVotes": 9,
+     "id": "4"
+    },
+    {
+     "title": "Narcos",
+     "author": "José Padilha",
+     "isOver": "true",
+     "imageUrl": "https://www.filmtv.it/imgbank/GALLERYXL/R201606/narcos_00.jpg",
+     "upVotes": 1,
+     "downVotes": "0",
+     "id": "5"
+    }
+   ]

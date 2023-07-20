@@ -10,7 +10,7 @@
         <h2>Inserisci un nuovo show</h2>
     </header>
     <main>
-        <form action="https://64b78c2521b9aa6eb0784ad1.mockapi.io/shows" method="post">
+        <form id="create-form" name="create" onsubmit="sendData(event)">
             <div>
                <label for="title">Inserisci il titolo</label>
                <input type="text" name="title" id="title">
@@ -38,4 +38,6 @@
         </form>
     </main>
 </body>
+<script src="./services/db-service.js"></script>
+<script src="./new-show.js"></script>
 </html>
